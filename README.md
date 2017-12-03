@@ -1,6 +1,6 @@
 # ASLRChk
 
-![main.png](main.png)
+![main](https://i.imgur.com/vrgw68D.png)
 
 Check to ASLR from Windows x86 EXE file and disable it.<br>
 
